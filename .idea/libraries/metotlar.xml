@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="metotlar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../metotlar/out/artifacts/metotlar_jar/metotlar.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
